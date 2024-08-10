@@ -1,0 +1,145 @@
+*{
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.header{
+    background-color: #d9ab00;
+    height: 100px;
+}
+.nav{
+    float: left;
+    margin-top: 20px;
+}
+.logo{
+    width: 250px;
+    margin-right: 150px ;
+    margin-left: 100px;
+}
+
+.nav2{
+    float: left;
+    margin-top: 40px;
+}
+.link{
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+    margin-right: 20px;
+}
+.nav2 input{
+    margin-left: 150px;
+    margin-top: 5px;
+    padding: 5px 5px 5px 5px;
+    background-color: #fbc301;
+}
+.section-1{
+    background-color: #fbc302;
+    height: 780px;
+}
+.botones{
+    margin-top: 80px;
+}
+.boton-azul{
+    text-decoration: none;
+    color: white;
+    padding: 10px 15px 10px 15px;
+    background-color: #00bdc9;
+    border-radius: 15px;
+}
+.texto-1{
+    float: left;
+    width: 590px;
+    margin-left: 100px;
+    margin-top: 150px;
+    color: white;
+    font-size: 25px;
+}
+.texto-1 h1{
+    margin-bottom: 20px;
+}
+.perro-1{
+    float: left;
+    width: 400px;
+    margin-left: 180px;
+    margin-top: 80px;
+}
+.perro-1 img{
+    width: 500px;
+    
+}
+.boton-amarillo{
+    text-decoration: none;
+    color: white;
+    padding: 10px 15px 10px 15px;
+    border: 1px solid white;
+    border-radius: 15px;
+}
+.section-2{
+    background-color: #ffffff;
+    height: 780px;
+}
+.botones{
+    margin-top: 80px;
+}
+.texto-2{
+    float: left;
+    width: 590px;
+    margin-left: 100px;
+    margin-top: 150px;
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+}
+.texto-2 h1{
+    margin-bottom: 20px;
+}
+.perro-2{
+    float: left;
+    width: 400px;
+    margin-left: 180px;
+    margin-top: 80px;
+}
+.perro-2 img{
+    width: 500px;
+    
+}
+.boton-amarillo-1{
+    text-decoration: none;
+    color: #ffffff;
+    padding: 20px 15px 20px 15px;
+    border: 1px solid #fbc301;
+    border-radius: 15px;
+    background-color: #fbc301;
+}
+.section-3{
+    background-color: #fbc302;
+    height: 980px;
+}
+.texto-3{
+    margin: auto;
+    width: 590px;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    text-align: center;
+    
+}
+.texto-3 h1{
+    margin-bottom: 30px;
+    margin-top: 40px;
+}
+.perro-3{
+    display:flex;
+    float: left;
+    text-align: center;
+    gap: 20px;
+}
+.ggg{
+    margin: auto;
+    width: 25%;
+    margin-top: 40px;
+}
+.imgggg{
+    width: 100%;
+}
+
